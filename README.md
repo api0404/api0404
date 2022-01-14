@@ -15,8 +15,6 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/853261587061014549.png" />
   <br />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=0404&theme=nord&margin-w=15&margin-h=1&column=6" />
 </p>
 
 ![Footer](./footer.png)
