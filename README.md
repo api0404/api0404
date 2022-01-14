@@ -1,8 +1,8 @@
 ![Header](./header.png)
 
-<h1 align="center">viz</h1>
+<h1 align="center">api#0404</h1>
 <p align="center">Intermediate javascript developer, I know a bit of python, but that's all</p>
-<a href="https://github.com/viz">
+<a href="https://github.com/api0404">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=viz2222" alt="Profile Views">
   </p>
