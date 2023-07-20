@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://discord.c99.nl/widget/theme-4/853261587061014549.png](https://discord.c99.nl/widget/theme-5/1120422112528695426.png)https://discord.c99.nl/widget/theme-5/1120422112528695426.png" />
+  <img src="https://discord.c99.nl/widget/theme-5/1120422112528695426.png" />
   <br />
 </p>
 
